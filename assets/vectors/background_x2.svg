@@ -1,0 +1,58 @@
+<svg width="594" height="888" viewBox="0 0 594 888" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter151_337)">
+<path d="M334.892,167.446C334.892,259.924 259.924,334.892 167.446,334.892C74.968,334.892 0,259.924 0,167.446C0,74.968 74.968,0 167.446,0C259.924,0 334.892,74.968 334.892,167.446Z" transform="rotate(-180 167.446 167.446)" fill="url(#pf_0_151_337)"/>
+</g>
+<g filter="url(#filter151_338)">
+<path d="M592.675,300.874C592.675,346.799 555.445,384.029 509.519,384.029C463.593,384.029 426.363,346.799 426.363,300.874C426.363,254.948 463.593,217.718 509.519,217.718C555.445,217.718 592.675,254.948 592.675,300.874Z" transform="rotate(-180 509.519 300.873)" fill="url(#pf_0_151_338)"/>
+</g>
+<g filter="url(#filter151_339)">
+<path d="M518.59,748.403C518.59,824.808 456.654,886.744 380.249,886.744C303.845,886.744 241.908,824.808 241.908,748.403C241.908,672 303.845,610.062 380.249,610.062C456.654,610.062 518.59,672 518.59,748.403Z" transform="rotate(-180 380.249 748.403)" fill="url(#pf_0_151_339)"/>
+</g>
+<defs>
+<filter id="filter151_337" x="-30" y="-29.999893" width="227.445808" height="227.445808" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="0" operator="dilate" in="SourceAlpha" result="0dropshadow"/>
+<feOffset dx="10" dy="30"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="0dropshadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="0dropshadow" result="shape"/>
+</filter>
+<radialGradient id="pf_0_151_337" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(90.332598 58.606034 -58.606034 90.332598 57.284 59.487)">
+<stop stop-color="#FFFFFF" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.1"/>
+</radialGradient>
+<filter id="filter151_338" x="396.36293" y="187.717537" width="143.155941" height="143.155941" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="0" operator="dilate" in="SourceAlpha" result="0dropshadow"/>
+<feOffset dx="10" dy="30"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="0dropshadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="0dropshadow" result="shape"/>
+</filter>
+<radialGradient id="pf_0_151_338" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(44.860437 29.10458 -29.10458 44.860437 241.63 138.401)">
+<stop stop-color="#FFFFFF" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.15"/>
+</radialGradient>
+<filter id="filter151_339" x="211.907837" y="580.062244" width="198.341254" height="198.341254" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="0" operator="dilate" in="SourceAlpha" result="0dropshadow"/>
+<feOffset dx="10" dy="30"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="0dropshadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="0dropshadow" result="shape"/>
+</filter>
+<radialGradient id="pf_0_151_339" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(74.631458 48.419439 -48.419439 74.631458 168.281 354.179)">
+<stop stop-color="#FFFFFF" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.15"/>
+</radialGradient>
+</defs>
+</svg>
